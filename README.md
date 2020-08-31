@@ -3,17 +3,17 @@
 
 The files in this repository were used to configure the network depicted below.
 
-[ELK Stack Network Diagram]
+ELK Stack Network Diagram
 ![alt text](https://github.com/T-Dickson15/ELK-up-and-running/blob/master/ELK%20Stack%20Network%20Diagram.png)
 
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the playbook files may be used to install only certain pieces of it, such as Filebeat.
 
-Web VMs Configuration Playbook: https://github.com/T-Dickson15/ELK-up-and-running/blob/master/ConfigueWebVMs-Playbook.yml
+  - Web VMs Configuration Playbook: https://github.com/T-Dickson15/ELK-up-and-running/blob/master/ConfigueWebVMs-Playbook.yml
 
-ELK Server Configuration Playbook: https://github.com/T-Dickson15/ELK-up-and-running/blob/master/ConfigureElkServer-Playbook.yml
+  - ELK Server Configuration Playbook: https://github.com/T-Dickson15/ELK-up-and-running/blob/master/ConfigureElkServer-Playbook.yml
 
-Filebeat and Metricbeat Installation Playbook: https://github.com/T-Dickson15/ELK-up-and-running/blob/master/InstallFilebeatMetricbeat-Playbook.yml
+  - Filebeat and Metricbeat Installation Playbook: https://github.com/T-Dickson15/ELK-up-and-running/blob/master/InstallFilebeatMetricbeat-Playbook.yml
 
 
 This document contains the following details:
