@@ -142,8 +142,7 @@ Q&A:
     10.1.0.4 ansible_python_interpreter=/usr/bin/python3
 
   - Which URL do you navigate to in order to check that the ELK server is running? http://[ELK_SERVER_PUBLIC_IP_ADDRESS]:5601/app/kibana
-
-Commands:
+### Commands and Instructions:
   - Command to copy Filebeat Configuration file to Ansible container: 
   curl https://gist.githubusercontent.com/slape/5cc350109583af6cbe577bbcc0710c93/raw/eca603b72586fbe148c11f9c87bf96a63cb25760/Filebeat > /etc/ansible/files/filebeat-configuration.yml
   
